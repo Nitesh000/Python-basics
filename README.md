@@ -15,5 +15,9 @@
 
 - arrays
 - linked list
+  - Singly Linked list
+  - Circular Singly Linked List
+  - Doubly Linked List
+  - Circular Doubly Linked list
 - recursion
 - tuples
