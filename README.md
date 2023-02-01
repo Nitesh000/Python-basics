@@ -23,3 +23,5 @@
 - [tuples](./tuples/demo.py)
 - [Stack](./stack/)
   - [Stack operations on list](./stack/StackList.py)
+  - [Stack operations on limited list](./stack/StackListLimited.py)
+  - [Stack operations on Linked list](./stack/StackLinkedList.py)
