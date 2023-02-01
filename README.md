@@ -13,11 +13,11 @@
 
 #### Repo-Content
 
-- arrays
-- linked list
-  - Singly Linked list
-  - Circular Singly Linked List
-  - Doubly Linked List
-  - Circular Doubly Linked list
-- recursion
-- tuples
+- [arrays](./array/)
+- [linked list](./linkedList/)
+  - [Singly Linked list](./linkedList/demo.py)
+  - [Circular Singly Linked List](./linkedList/circularSLL/demo.py)
+  - [Doubly Linked List](./linkedList/DLL/demp.py)
+  - [Circular Doubly Linked list](./linkedList/CDDL/demo.py)
+- [recursion](./recursion/)
+- [tuples](./tuples/demo.py)
