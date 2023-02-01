@@ -21,3 +21,5 @@
   - [Circular Doubly Linked list](./linkedList/CDDL/demo.py)
 - [recursion](./recursion/)
 - [tuples](./tuples/demo.py)
+- [Stack](./stack/)
+  - [Stack operations on list](./stack/StackList.py)
