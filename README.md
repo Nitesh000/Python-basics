@@ -28,3 +28,7 @@
 - [Queue](./queue/)
   - [Queue: Python List](./queue/QueueNoSize.py)
   - [Circular Queue: Python List(limited size)](./queue/QueueWithCapacity.py)
+  - [Queue: Linked List](./queue/QueueLinkedList.py)
+  - [Queue: Collection Moduel](./queue/Deque.py)
+  - [Queue: Queue Module](./queue/QueueModule.py)
+  - [Queue: Multiprocessing Modoule](./queue/MultiprocessingQueue.py)
