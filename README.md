@@ -25,3 +25,6 @@
   - [Stack operations on list](./stack/StackList.py)
   - [Stack operations on limited list](./stack/StackListLimited.py)
   - [Stack operations on Linked list](./stack/StackLinkedList.py)
+- [Queue](./queue/)
+  - [Queue: Python List](./queue/QueueNoSize.py)
+  - [Circular Queue: Python List(limited size)](./queue/QueueWithCapacity.py)
