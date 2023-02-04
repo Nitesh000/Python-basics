@@ -4,7 +4,8 @@
 
 #### What is this repo for
 
-- It is just a repo for storing my python basics walkthrough for any recalling purpose of the basics of the python language
+- It is just a repo for storing my python basics walkthrough for any recalling purpose of the basics of the python language.
+- Also these codes can be helpful if you are starting-out with DSA.
 
 #### What will i do here
 
