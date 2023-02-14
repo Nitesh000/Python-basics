@@ -33,3 +33,5 @@
   - [Queue: Collection Moduel](./queue/Deque.py)
   - [Queue: Queue Module](./queue/QueueModule.py)
   - [Queue: Multiprocessing Modoule](./queue/MultiprocessingQueue.py)
+- [Tree](./tree/CreateTree.py)
+  - [Binary Tree](./tree/Binary-Tree/BinaryTree.py)
