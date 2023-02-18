@@ -34,4 +34,5 @@
   - [Queue: Queue Module](./queue/QueueModule.py)
   - [Queue: Multiprocessing Modoule](./queue/MultiprocessingQueue.py)
 - [Tree](./tree/CreateTree.py)
-  - [Binary Tree](./tree/Binary-Tree/BinaryTree.py)
+  - [Binary Tree (linked list)](./tree/Binary-Tree/BinaryTree.py)
+  - [Binary Tree (python list)](./tree/Binary-Tree/with_list/BinaryTree.py)
