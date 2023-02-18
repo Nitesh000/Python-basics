@@ -3,6 +3,7 @@
 
 from inOrderTra import inOrderTraversal
 from preOrderTra import preOrderTraversal
+from postOrderTra import postOrderTraversal
 
 class TreeNode:
     def __init__(self, data):
@@ -19,3 +20,4 @@ newBT.rightChild = rightChild
 
 preOrderTraversal(newBT) #Drinks Hot Cold
 inOrderTraversal(newBT) #Hot Drinks Cold
+postOrderTraversal(newBT) #Hot Cold Drinks
